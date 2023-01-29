@@ -28,4 +28,4 @@
 - why is the "test" split still used in the train-val-split split (if it is namely not available)? probably this is something i didn't personally get
 -> Yeah, it's something we can remove from the split function.
 - what is the 'length of conversation'? in the error analysis there are histograms of the distribution of lengths but are <<512 
--> Answer: number of QA pairs.
+-> Answer: number of QA pairs. WE HAVE TO PLACE THE DISTRIBUTION OF TOKENS HERE AS I'VE DONE IN TASK 2.
