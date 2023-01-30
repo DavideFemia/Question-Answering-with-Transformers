@@ -14,7 +14,7 @@
 - where is the training process display?
 -> TO DO! We have to re-run the models!
 - how did you cut the sentences? did you cut them? how much do they "fill" the 512 tokens? they frequently fill em or is just a few cases? in the last case maybe a quantile-cut is to be considered
--> TO DO!
+-> Answer: usually the inputs fill most of the available positions. In addition, PAD tokens are masked so that they won't influence too much the result.
 
 # Task 7
 - error analysis: where are the comments on the reasons of the errors? (read the paper https://arxiv.org/pdf/1808.07042.pdf to gain them and relate our displayed errors)
