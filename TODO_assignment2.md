@@ -2,9 +2,6 @@
 - the turn number seems not "truly ordered"
 - first letter was cut in the rationale (?)
 
-# split dataset:
-- if we have 500/7693 it is not a 20:80 split (it is 20:80 just for the splitting of train in new train and val)...
-
 # typo "theacher" --> "teacher"
 
 # distilroberta:
