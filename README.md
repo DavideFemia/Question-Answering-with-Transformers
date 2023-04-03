@@ -43,3 +43,49 @@ These models were tested both on the test set and validation set, obtaining the 
     </td>
   </tr>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cly1" rowspan="2">Model</th>
+    <th class="tg-cly1" rowspan="2">History</th>
+    <th class="tg-cly1" colspan="2">SQUAD-F1</th>
+  </tr>
+  <tr>
+    <th class="tg-cly1">Validation</th>
+    <th class="tg-cly1">Test</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1" rowspan="2">BERTTiny</td>
+    <td class="tg-cly1">Yes</td>
+    <td class="tg-cly1">x</td>
+    <td class="tg-cly1">x</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">No</td>
+    <td class="tg-cly1">x</td>
+    <td class="tg-cly1">x</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">DistilRoBERTa</td>
+    <td class="tg-cly1">Yes</td>
+    <td class="tg-cly1">x</td>
+    <td class="tg-cly1">x</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">No</td>
+    <td class="tg-cly1">x</td>
+    <td class="tg-cly1">x</td>
+  </tr>
+</tbody>
+</table>
