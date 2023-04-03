@@ -19,3 +19,27 @@ Two main configurations were experimented
 - Considering the history of the conversation (4 previous dialogues)
 
 These models were tested both on the test set and validation set, obtaining the following results
+
+
+<table style="padding:10px">
+  <tr>
+    <td> 
+         prova
+    </td>
+    <td>
+        prova
+    </td>
+    <td>
+        prova
+    </td>
+    <td>
+        prova
+    </td>
+    <td>
+        prova
+    </td>
+    <td>
+        prova
+    </td>
+  </tr>
+</table>
