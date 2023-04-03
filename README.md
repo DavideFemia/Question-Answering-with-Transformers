@@ -5,7 +5,7 @@ In this work we address the problem of Conversational Question Answering, with r
 We propose a solution based on Transformers such as BERTTiny and DistilRoBERTa.
 In particular, our architectures consist of two networks, the first deals with the rationale (the sentence which contains the answer) extraction, while the latter identifies the correct answer and reformulates it (see figure below).
 
-!()["https://www.mdpi.com/electronics/electronics-12-00209/article_deploy/html/images/electronics-12-00209-g001.png"]
+![]("https://www.mdpi.com/electronics/electronics-12-00209/article_deploy/html/images/electronics-12-00209-g001.png")
 
 
 ## Models
