@@ -1,6 +1,6 @@
 # data inspection:
-- the turn number seems not "truly ordered"
-- first letter was cut in the rationale (?)
+- the turn number seems not "truly ordered".    Where?
+- first letter was cut in the rationale (?)     Where?
 
 # typo "theacher" --> "teacher"
 
