@@ -26,10 +26,7 @@ These models were tested both on the test set and validation set, obtaining the 
   <tr>
     <th class="tg-cly1" rowspan="2">Model</th>
     <th class="tg-cly1" rowspan="2">History</th>
-    <th class="tg-cly1" colspan="1">SQUAD-F1</th>
-  </tr>
-  <tr>
-    <th class="tg-cly1">Test</th>
+    <th class="tg-cly1">SQUAD-F1</th>
   </tr>
 </thead>
 <tbody>
