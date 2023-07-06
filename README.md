@@ -37,24 +37,24 @@ These models were tested both on the test set and validation set, obtaining the 
   <tr>
     <td class="tg-cly1" rowspan="2">BERTTiny</td>
     <td class="tg-cly1">Yes</td>
-    <td class="tg-cly1">x</td>
-    <td class="tg-cly1">x</td>
+    <td class="tg-cly1"></td>
+    <td class="tg-cly1">83.94%</td>
   </tr>
   <tr>
     <td class="tg-cly1">No</td>
     <td class="tg-cly1">x</td>
-    <td class="tg-cly1">x</td>
+    <td class="tg-cly1">19.88%</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">DistilRoBERTa</td>
     <td class="tg-cly1">Yes</td>
-    <td class="tg-cly1">x</td>
-    <td class="tg-cly1">x</td>
+    <td class="tg-cly1"></td>
+    <td class="tg-cly1">68.94%</td>
   </tr>
   <tr>
     <td class="tg-cly1">No</td>
     <td class="tg-cly1">x</td>
-    <td class="tg-cly1">x</td>
+    <td class="tg-cly1">74.59%</td>
   </tr>
 </tbody>
 </table>
