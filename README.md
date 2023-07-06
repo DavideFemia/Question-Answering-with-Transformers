@@ -26,10 +26,9 @@ These models were tested both on the test set and validation set, obtaining the 
   <tr>
     <th class="tg-cly1" rowspan="2">Model</th>
     <th class="tg-cly1" rowspan="2">History</th>
-    <th class="tg-cly1" colspan="2">SQUAD-F1</th>
+    <th class="tg-cly1" colspan="1">SQUAD-F1</th>
   </tr>
   <tr>
-    <th class="tg-cly1">Validation</th>
     <th class="tg-cly1">Test</th>
   </tr>
 </thead>
@@ -37,43 +36,35 @@ These models were tested both on the test set and validation set, obtaining the 
   <tr>
     <td class="tg-cly1" rowspan="4">BERTTiny</td>
     <td class="tg-cly1">YES</td>
-    <td class="tg-cly1"></td>
     <td class="tg-cly1">83.94%</td>
   </tr>
   <tr>
     <td class="tg-cly1">NO</td>
-    <td class="tg-cly1">x</td>
     <td class="tg-cly1">19.88%</td>
   </tr>
   <tr>
     <td class="tg-cly1">WH</td>
-    <td class="tg-cly1">x</td>
     <td class="tg-cly1">14.12%</td>
   </tr>
   <tr>
     <td class="tg-cly1">MC</td>
-    <td class="tg-cly1">x</td>
     <td class="tg-cly1">17.39%</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="4">DistilRoBERTa</td>
     <td class="tg-cly1">YES</td>
-    <td class="tg-cly1"></td>
     <td class="tg-cly1">68.94%</td>
   </tr>
   <tr>
     <td class="tg-cly1">NO</td>
-    <td class="tg-cly1">x</td>
     <td class="tg-cly1">74.59%</td>
   </tr>
     <tr>
     <td class="tg-cly1">WH</td>
-    <td class="tg-cly1">x</td>
     <td class="tg-cly1">44.95%</td>
   </tr>
   <tr>
     <td class="tg-cly1">MC</td>
-    <td class="tg-cly1">x</td>
     <td class="tg-cly1">33.30%</td>
   </tr>
 </tbody>
