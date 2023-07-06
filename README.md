@@ -36,12 +36,22 @@ These models were tested both on the test set and validation set, obtaining the 
 <tbody>
   <tr>
     <td class="tg-cly1" rowspan="2">BERTTiny</td>
-    <td class="tg-cly1">Yes</td>
+    <td class="tg-cly1">YES</td>
     <td class="tg-cly1"></td>
     <td class="tg-cly1">83.94%</td>
   </tr>
   <tr>
-    <td class="tg-cly1">No</td>
+    <td class="tg-cly1">NO</td>
+    <td class="tg-cly1">x</td>
+    <td class="tg-cly1">19.88%</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">WH</td>
+    <td class="tg-cly1">x</td>
+    <td class="tg-cly1">19.88%</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">MC</td>
     <td class="tg-cly1">x</td>
     <td class="tg-cly1">19.88%</td>
   </tr>
